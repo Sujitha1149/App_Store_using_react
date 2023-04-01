@@ -1,0 +1,17 @@
+.app-container {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.app-emoji {
+  height: 60px;
+}
+.app-head {
+  font-size: 17px;
+}
